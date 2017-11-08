@@ -6,13 +6,6 @@
 	
 	<display-name>MagicPiMirror</display-name>
 	 
-	<servlet>
-		<servlet-name>Hello</servlet-name>
-		<servlet-class>dk.fuskogtusk.main.Hello</servlet-class>
-	</servlet> 
-	<servlet-mapping>
-		<servlet-name>Hello</servlet-name>
-		<url-pattern>/*</url-pattern>
-	</servlet-mapping>
+
 
 </web-app>
